@@ -43,7 +43,10 @@ It displays the following menu and select 2 for Website Attack Vectors:
 
 The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
 ## OUTPUT
-<img width="475" height="207" alt="Screenshot 2025-11-19 000024" src="https://github.com/user-attachments/assets/67a0a583-d80a-4d68-8f00-890
+
+<img width="475" height="207" alt="Screenshot 2025-11-19 000024" src="https://github.com/user-attachments/assets/f98fd4b5-d406-40a5-8df2-948773c99af5" />
+
+
 
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 ## OUTPUT
